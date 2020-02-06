@@ -1,8 +1,8 @@
-df1cd3bc3276485f70520e8be8749485 *DESCRIPTION
+064280a0d21d9cee60c5ae96581ddce0 *DESCRIPTION
 f225481f6adcfb357d95c769704eb940 *LICENSE
-b6e0ad1baef46672d1f100dbb8bbbf20 *NAMESPACE
-d898f16c2ada4265d1f78877a02e7123 *NEWS
-9749b4bf767fe8e93317440f0f890e3e *R/CQmodel.R
+0f29eac9e72746b8c665d835cc05b640 *NAMESPACE
+ddcb0d8d1e4b5a4ca92b2051b7a619e5 *NEWS
+5bc7f529b84c81d7497eac8881d2c9da *R/CQmodel.R
 1b647292339b482aea2d7807433f7ac0 *R/cutLines.R
 830bab6f5b23575a99f1d96a0a2747e5 *R/difplot.CQmodel.R
 109367bd6fba69d9f8aa6d1b0382155f *R/difplot.R
@@ -13,13 +13,13 @@ b39ea4b6074b7ccfe9990f7249bb018e *R/fitgraph.R
 1b0dfd5fa023c99b995d3502e8ff274b *R/fitgraph.character.R
 28cecb4a9112d7423ecc2376cc818452 *R/fitgraph.default.R
 6841f7944ee04d2d05b83e58d7a4b5ff *R/fitgraph.numeric.R
-5aac6d6fc929f45c35b198c26ffe2f98 *R/itemClassic.R
-67d234b3b99249d3d9c8c21b7c31f9c2 *R/itemData.CQmodel.R
+4c3feaf9ca116bf13aca3c350f444430 *R/itemClassic.R
+4fde6cc709c7725db6ddff5554b28b5b *R/itemData.CQmodel.R
 2aea16e35cfe555f4ea7e17d1d1d49d1 *R/itemData.R
 47ced213f354f79661d1e68fed8cb401 *R/itemData.character.R
 0729fdb4d71e5caf9e0145dbfc3e494e *R/itemData.default.R
 26f3f76ba1054919579530d889c103a2 *R/itemHist.R
-ca6b7bc0415f18dcabbeb1ced691caec *R/itemModern.R
+3bf1206b9d1315250ee378e6a1a83300 *R/itemModern.R
 39b5b26b3adba17e1f55d9e7167c0945 *R/make.deltas.CQmodel.R
 6f5f23449cd4520ed14dd6f695dc44a9 *R/make.deltas.R
 bd09898a2276cb78f788d502bfdbfa1d *R/make.deltas.character.R
@@ -33,7 +33,7 @@ ca1848e60bed2d6e160acb4fe2d6f8c5 *R/personData.CQmodel.R
 25341b1e966fd6a4ca13c871999c68f1 *R/personData.R
 7d54cc1461bf68e7af7fe726d7255a46 *R/personData.character.R
 3382635ae9884e60d68301609508e6c9 *R/personData.default.R
-0d6c59b20845b2350d22f85d549ff372 *R/personDens.R
+62f3dd405b117c1de03bb2b2cc33cfe7 *R/personDens.R
 49687750a549876a8db0122da348f0b6 *R/personHist.R
 6493316df801584208943ef7a6a168c8 *R/plot.CQmodel.R
 a55d57b55f1a54e9abd18a838500114b *R/plotCI.R
@@ -41,7 +41,7 @@ a55d57b55f1a54e9abd18a838500114b *R/plotCI.R
 cd9b6e6bc177e5146b3a2d1569bd5e47 *R/print.CQmodel.R
 7a26e768a24ba9ab9d19939c888eea24 *R/print.SOE.R
 465428c8b095bc8703852e8b072ec40d *R/wrightMap.R
-214adfe2804c9ddd42be903dbad6a3fb *README.md
+7d12db357e9506d6dd7d9b77d6576a1e *README.md
 da8970f72a8773dce927843368d851fe *inst/CITATION
 22c3ceebb66317473147397eb7815d18 *inst/extdata/ex2.eap
 02a877d5f3e1d7bfbfe8394359bf84e6 *inst/extdata/ex2.shw
@@ -58,7 +58,7 @@ e3a9820db850174644d1813eaebeab70 *inst/extdata/ex4a.mle
 3f035e5e5acb450bbba77cd99697f3cd *man/WrightMap-package.Rd
 6e51857affe1e0da6870e2679e558891 *man/fitgraph.Rd
 87e79a8bfe6e06ac2271bfd87bf9c03c *man/item.person.data.Rd
-8fc8670ec01894a41a97f25d319ee418 *man/item.side.Rd
+6a3da8902e43c6979755fd75bbf1e970 *man/item.side.Rd
 9eb6a9ce5f01464fe994b1a06516da82 *man/make.deltas.Rd
 7e9353f9007ecd95a37c7923434d0ded *man/make.thresholds.Rd
 46444f7c9e5643c8e0aa72e0b7a79f02 *man/person.side.Rd
