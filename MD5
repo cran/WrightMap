@@ -1,7 +1,7 @@
-064280a0d21d9cee60c5ae96581ddce0 *DESCRIPTION
+1c53d4b61de6ee7325b59a2939779513 *DESCRIPTION
 f225481f6adcfb357d95c769704eb940 *LICENSE
 0f29eac9e72746b8c665d835cc05b640 *NAMESPACE
-ddcb0d8d1e4b5a4ca92b2051b7a619e5 *NEWS
+9a11f89a3f15f91bdf3d502308ab0b6d *NEWS
 5bc7f529b84c81d7497eac8881d2c9da *R/CQmodel.R
 1b647292339b482aea2d7807433f7ac0 *R/cutLines.R
 830bab6f5b23575a99f1d96a0a2747e5 *R/difplot.CQmodel.R
@@ -19,7 +19,7 @@ b39ea4b6074b7ccfe9990f7249bb018e *R/fitgraph.R
 47ced213f354f79661d1e68fed8cb401 *R/itemData.character.R
 0729fdb4d71e5caf9e0145dbfc3e494e *R/itemData.default.R
 26f3f76ba1054919579530d889c103a2 *R/itemHist.R
-3bf1206b9d1315250ee378e6a1a83300 *R/itemModern.R
+a0757df509aefe45dda03a63d568e633 *R/itemModern.R
 39b5b26b3adba17e1f55d9e7167c0945 *R/make.deltas.CQmodel.R
 6f5f23449cd4520ed14dd6f695dc44a9 *R/make.deltas.R
 bd09898a2276cb78f788d502bfdbfa1d *R/make.deltas.character.R
@@ -41,7 +41,7 @@ a55d57b55f1a54e9abd18a838500114b *R/plotCI.R
 cd9b6e6bc177e5146b3a2d1569bd5e47 *R/print.CQmodel.R
 7a26e768a24ba9ab9d19939c888eea24 *R/print.SOE.R
 465428c8b095bc8703852e8b072ec40d *R/wrightMap.R
-7d12db357e9506d6dd7d9b77d6576a1e *README.md
+c8cd62d285fef513ac1c81fcad0d169f *README.md
 da8970f72a8773dce927843368d851fe *inst/CITATION
 22c3ceebb66317473147397eb7815d18 *inst/extdata/ex2.eap
 02a877d5f3e1d7bfbfe8394359bf84e6 *inst/extdata/ex2.shw
