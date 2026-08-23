@@ -1,3 +1,26 @@
+#Updates for 1.5:
+
+##Contributors:
+
+- Added Joshua A. McGrane as contributor for feature development and testing.
+- Code development assisted by Claude (Anthropic AI).
+
+##New features:
+
+- Added `item.groups` parameter to wrightMap() allowing items to be displayed in multiple panels based on group membership (e.g., content strands like "Algebra", "Probability", "Calculus"). Each panel shows the group name with a shared "Items" label below all panels. Items can be in any order in the dataset and will be correctly assigned to their respective panels while preserving their original names.
+
+- When using `item.groups`, the `cutpoints` parameter can now accept a named list to specify different cutpoints for each panel (e.g., `cutpoints = list(Algebra = c(-1, 0), Probability = c(0, 1))`). Panels not included in the list will have no cutpoints. A numeric vector can still be used to apply the same cutpoints to all panels.
+
+- Added `item.group.cex` parameter to control the font size of item group names (default 0.6).
+
+- Added `axis.items.cex` parameter to control the font size of the shared "Items" label when using item.groups (default 0.7).
+
+- Default threshold labels are now simple numeric (1, 2, 3, etc.) when no column names are provided. Added `thr.lab.type` parameter to itemModern and `label.steps.type` parameter to itemClassic. Set these to "transition" to use category transition labels (0/1, 1/2, 2/3, etc.).
+
+- personHist and personDens no longer display "Dim1" label when there is only a single dimension. For multiple dimensions, the default labels remain "Dim1", "Dim2", etc.
+
+- Setting `main.title = NULL` or `main.title = ""` now removes the title entirely and reclaims the space at the top of the plot, rather than leaving blank space.
+
 #Updates for 1.4:
 
 - Started using ChatGPT to help out with code maintenance, documentation, and adding missing arguments to functions.
